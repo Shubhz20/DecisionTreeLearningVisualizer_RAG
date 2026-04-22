@@ -334,4 +334,4 @@ with tabs[6]:
         st.write(f"Accuracy: {accuracy_score(y_noisy, m_pruned.predict(X)):.2f}")
 
 st.markdown("---")
-st.markdown("Created by Antigravity for RAG Class Activity.")
+
